@@ -1,5 +1,5 @@
 //============================================================================
-// Name        : Pathfinding Visualiser.cpp
+// Name        : Pathfinding Visualizer.cpp
 // Author      : Lars Olt
 // Version     :
 // Copyright   :
